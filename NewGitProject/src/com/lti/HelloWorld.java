@@ -1,10 +1,9 @@
 package com.lti;
 
+import java.time.LocalDateTime;
+import java.util.Date;
 
-	import java.time.LocalDateTime;
-	import java.util.Date;
-
-	public class HelloWorld {
+public class HelloWorld {
 
 		public void main() {
 			System.out.println("Hello");
@@ -14,8 +13,10 @@ package com.lti;
 			LocalDateTime dt=LocalDateTime.now();
 			System.out.println(dt);
 			
-			System.out.println("Hello");
+			System.out.println("Hello Samayak!");
 			
+			System.out.println("Welocome");
+				
 		}
 
 	}
